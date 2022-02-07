@@ -1,0 +1,80 @@
+#body{
+    background-color:grey;
+  }
+  
+  div{
+    background-color:white;
+    position:relative;
+  }
+  
+  #quote-box{
+     width: 30%;
+     position:relative;
+     border-radius:3px;
+     padding: 40px 50px;
+     margin:8% auto;
+     filter: drop-shadow(2px 2px grey);
+    
+  }
+  
+  #quote-text{
+    text-align:center;
+    color:grey;
+    padding: 40px 50px ;
+  
+  }
+  
+  #quote-author{
+    text-align:right;
+    color:grey;
+      padding-bottom: 40px;
+  
+  }
+  
+  #new-quote{
+    float:right;
+    padding: 5px;
+    border-radius: 5px;
+  }
+  
+  a i{
+    color: white;
+    padding: 5px;
+    width: 25px;
+    text-align: center;
+  }
+  
+  a{
+    background-color: grey;
+    border-radius: 5px;
+    padding: 5px;
+  }
+  
+  button{
+    background-color: grey;
+    border-radius: 5px;
+    border: none;
+    padding: 5px;
+    color: white;
+  }
+  
+  .buttons{
+    position: absolute;
+    bottom: 5%;
+    left: 5%;
+    right: 5%;
+  }
+  
+  span {
+    padding-left: 10px;
+  }
+  
+  #text{
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+  }
+  
+  #author{
+    font-family: monospace;
+    font-style: italic;
+  }
