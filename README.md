@@ -1,2 +1,2 @@
 # quote-machine
-quote machine with randon color with every qoute.
+quote machine with random color with every qoute.
